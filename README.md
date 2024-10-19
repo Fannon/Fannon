@@ -2,14 +2,15 @@ Software Architect / Full-Stack Developer.
 
 ## Interests
 * Software Architecture
-* Data Architecture
+* Full-Stack Web Development with TypeScript / JavaScript
 * Metadata and Specifications
-* Data-driven and metadata/model-driven development
-* Music and Electronics
+* Data-driven and Metadata/Model-driven Development
+* Data Architecture
+* Music and a little bit of electronics
 
 ## Work 
 I work at [SAP](https://sap.com) in the Office of the CTO on cross architecture and integration.
-In particular, I'm responsible for the [Open Resource Discovery](https://sap.github.io/open-resource-discovery/) protocol and related projects and topics like APIs and Events and Data Architecture.
+In particular, I'm responsible for the [Open Resource Discovery](https://sap.github.io/open-resource-discovery/) protocol and also work on related projects and topics like APIs, Events and (Meta)Data Architecture.
 
 ## Stats
 
