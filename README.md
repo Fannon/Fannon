@@ -6,7 +6,7 @@ Software Architect / Full-Stack Developer.
 * Metadata and Specifications
 * Data-driven and Metadata/Model-driven Development
 * Data Architecture
-* Music and a little bit of electronics
+* Music, Reading, Biking and a little bit of electronics
 
 ## Work 
 I work at [SAP](https://sap.com) in the Office of the CTO on cross architecture and integration.
